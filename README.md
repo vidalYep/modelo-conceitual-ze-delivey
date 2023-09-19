@@ -11,4 +11,4 @@
 
 Este projeto conceitual não inclui a implementação real do banco de dados, mas fornece a estrutura e o esquema de tabelas necessários para criar o banco de dados.
 
-<img src="[https://github.com/joaopauloaramuni/banco-de-dados/blob/main/BD.png](https://github.com/vidalYep/Banco_Delivery/blob/main/banco%20delivery.PNG) "/>
+<img src="(https://github.com/vidalYep/Banco_Delivery/blob/main/banco%20delivery.PNG) "/>
