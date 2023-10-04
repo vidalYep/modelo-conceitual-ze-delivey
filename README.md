@@ -1,4 +1,4 @@
-# Modelo conceitual Delevery
+# Modelo conceitual Delivery
 
 ## Funcionalidades Principais
 
